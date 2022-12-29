@@ -19,7 +19,7 @@ P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervise
 ### Single layer hypergraphs
 From https://www.cs.cornell.edu/~arb/data/ \
 P. S. Chodrow, N. Veldt, and A. R. Benson. Generative hypergraph clustering: From blockmodels to modularity. Science Advances, 7(28):eabh1303, 2021.\
-Use AB_hypergraphs to create incident and adjacency matrix. 
+Use AB_hypergraphs to create incident and adjacency matrices. 
 
 ## Evaluation of the final partitions
 - confusion_matrix: calculates the confusion matrix. It is used in "wrong" function and input of "NMI" function.
