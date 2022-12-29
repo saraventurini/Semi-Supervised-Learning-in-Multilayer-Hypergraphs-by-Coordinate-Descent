@@ -41,6 +41,10 @@ experiments_REAL_p: run the tests on real-world networks (multilayer networks an
 - efficiency_plot_REAL_p: tests each methods on real-world network 
 - plot_eff_REAL: does efficency plots objective function and accuracy in terms of number of flops
 
+## Functions' definitions
+- fun_obj: objective function initialization - just p-Laplacian term
+- phi_p: function used to define the p-Laplacian 
+
 ## Reference paper
 "Semi Supervised Learning in Multilayer Hypergraphs by Coordinate Descent" by Sara Venturini, Andrea Cristofari, Francesco Rinaldi, Francesco Tudisco.
 
