@@ -1,0 +1,18 @@
+%contact-high-school
+
+Number of communities:  9 [36    34    40    29    38    34    44    39    33]
+Number of nodes:  327 
+Number of hyperedges:  7818 
+Mean hyperedge size:  2.3269 
+Median hyperedge size:  2.0000 
+Maximum hyperedge size:  5 
+Density adjacency matrix:  1.091537e-01
+
+NL number_uknown_labels
+0.05 9 [1 1 1 1 1 1 1 1 1]
+0.1 9 [1 1 1 1 1 1 1 1 1]
+0.5 9 [1 1 1 1 1 1 1 1 1]
+1 9 [1 1 1 1 1 1 1 1 1]
+5 11 [1 1 2 1 1 1 2 1 1]
+10 28 [3 3 4 2 3 3 4 3 3]
+15 45 [5 5 6 4 5 5 6 5 4]
