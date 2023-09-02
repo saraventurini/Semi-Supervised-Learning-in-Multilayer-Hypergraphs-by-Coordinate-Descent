@@ -18,7 +18,7 @@ From https://github.com/melopeo/PM_SSL/tree/master/realworld_datasets \
 P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. In NeurIPS 2019.
 ### Single layer hypergraphs
 In folder Data. \
-Incident and adjacency matrices created using AB_hypergraphs from https://www.cs.cornell.edu/~arb/data/ \
+Incident and adjacency matrices created using code AB_hypergraphs from data in https://www.cs.cornell.edu/~arb/data/ \
 P. S. Chodrow, N. Veldt, and A. R. Benson. Generative hypergraph clustering: From blockmodels to modularity. Science Advances, 7(28):eabh1303, 2021.\
 
 
