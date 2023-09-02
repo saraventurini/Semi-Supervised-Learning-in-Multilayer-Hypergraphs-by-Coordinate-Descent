@@ -17,9 +17,10 @@ adjacent\_matrix\_generator: creates a single-layer graph using the Stochastic B
 From https://github.com/melopeo/PM_SSL/tree/master/realworld_datasets \
 P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. In NeurIPS 2019.
 ### Single layer hypergraphs
-From https://www.cs.cornell.edu/~arb/data/ \
+In folder Data. \
+Incident and adjacency matrices created using AB_hypergraphs from https://www.cs.cornell.edu/~arb/data/ \
 P. S. Chodrow, N. Veldt, and A. R. Benson. Generative hypergraph clustering: From blockmodels to modularity. Science Advances, 7(28):eabh1303, 2021.\
-Use AB_hypergraphs to create incident and adjacency matrices. 
+
 
 ## Evaluation of the final partitions
 - confusion_matrix: calculates the confusion matrix. It is used in "wrong" function and input of "NMI" function.
